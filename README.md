@@ -10,5 +10,6 @@
     <a href="https://kokskatzen.de">kokskatzen.de</a> .
     <a href="https://github.com/nomfpv/lightguard">lightguard</a> .
     <a href="https://github.com/nomfpv/clicksound">clicksound</a>
+    <a href="https://github.com/nomfpv/wiegutkannkevinspanish">wiegutkannkevinspanisch</a>
   </samp>
 </p>
